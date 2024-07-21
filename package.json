@@ -1,0 +1,16 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "description": "Zoom clone using WebRTC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.24.9",
+    "@babel/node": "^7.24.8",
+    "@babel/preset-env": "^7.24.8",
+    "nodemon": "^3.1.4"
+  }
+}
